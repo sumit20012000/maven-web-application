@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to DevOps Test Page </h1>
-<h1 align="center"> This web page for testing and learning purpose for real time scnerios</h1>
+<h1 align="center"> This web page for testing and learning purpose for real time scenarios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
