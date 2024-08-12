@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>SumitTechnologies- Home Page</title>
+<title>DevOps Technologies- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Sumit DevOps page </h1>
+<h1 align="center">Welcome to DevOps Test Page </h1>
 <h1 align="center"> This web page for testing and learning purpose for Real Time scnerios</h1>
 <hr>
 <br>
@@ -34,13 +34,13 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Sumit DevOps, 
+		DevOps, 
 		Baner, Above Zudio, Beside Mango Sweets,
 		Pune,
 		+91-9172619493
 		skfighter11@gmail.com
 		<br>
-		<a href="mailto:skfighter11@gmail.com">Mail to Sumit DevOps</a>
+		<a href="mailto:skfighter11@gmail.com">Mail to Sumit</a>
 	</span>
 </div>
 <hr>
@@ -48,7 +48,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>Sumit DevOps Test Project .</p>
-<p align=center><small>Copyrights 2024 by <a href="http://sumittechnologies.com/">Sumit DevOps,Baner</a> </small></p>
+<p align=center><small>Copyrights 2024 by <a href="http://DevOpstechnologies.com/">DevOps,Baner</a> </small></p>
 
 </body>
 </html>
